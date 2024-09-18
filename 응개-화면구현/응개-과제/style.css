@@ -1,0 +1,30 @@
+table {
+    border: 1px solid black;
+    text-align: center;
+    height: 50px;
+    width: 500px;
+    border-collapse: separate;
+}
+
+td,th {
+    height: 50px;
+    width: 500px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.day {
+    background-color: blue;
+}
+
+.program {
+    background-color: green;
+}
+
+.art {
+    background-color: orange;
+}
+
+.java {
+    background-color: yellow;
+}
